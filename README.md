@@ -16,18 +16,18 @@
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
-### 🔹 [Penguin Classification ML Project](https://github.com/77_lboo/penguin-classification-ml-project)
-Multi-class classification using Logistic Regression & SVM with decision boundary visualization.
+🔹 [Penguin Classification ML Project](https://github.com/77_lboo/penguin-classification-ml-project)  
+Multi-class classification using Logistic Regression and SVM with decision boundary visualization.
 
-### 🔹 [SmartCatalog (C++)](https://github.com/77_lboo/cpp-smartcatalog-oop-system)
+🔹 [SmartCatalog (C++)](https://github.com/77_lboo/cpp-smartcatalog-oop-system)  
 Product catalog management system built with OOP principles and file persistence.
 
-### 🔹 [TaskList Manager (C++)](https://github.com/77_lboo/tasklist-manager-cpp)
+🔹 [TaskList Manager (C++)](https://github.com/77_lboo/tasklist-manager-cpp)  
 Task management system with parsing, storage, and priority features.
 
-### 🔹 [MiniHub Directory Search (C++)](https://github.com/77_lboo/minihub-cpp-social-directory)
+🔹 [MiniHub Directory Search (C++)](https://github.com/77_lboo/minihub-cpp-social-directory)  
 Search system implementing hash tables and binary search trees.
 
 ---
