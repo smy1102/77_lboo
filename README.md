@@ -18,7 +18,7 @@
 
 ## 📁 Featured Projects
 
-🔹 [Penguin Classification ML Project](https://github.com/smy1102/penguin-classification-ml-projecth  
+🔹 [Penguin Classification ML Project](https://github.com/smy1102/penguin-classification-ml-project)
 Multi-class classification using Logistic Regression and SVM with decision boundary visualization.
 
 🔹 [SmartCatalog (C++)](https://github.com/smy1102/cpp-smartcatalog-oop-system)  
